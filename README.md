@@ -271,3 +271,4 @@ The content of this repository is bound by the following licenses:
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are copyright © 2024 freeCodeCamp.org
 Learning GitHub Basics!
 Learning GitHub Basics!
+Learning GitHub Basics!
